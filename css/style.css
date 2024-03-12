@@ -1,0 +1,52 @@
+.container{
+    display: grid;
+    place-items: center;
+}
+
+.search-button{
+    display: grid;
+    place-items: center;
+    background-color: rgb(235, 235, 235);
+    margin: auto 5%;
+}
+
+.card1{
+    display: grid;
+    place-items: center;
+    background-color: #7EE5DA;
+    margin-top: 2px;
+    margin-left: 5%;
+    margin-right: 2px;
+    padding: 10px;
+    float: left;
+    width: 36%;
+}
+
+.card2{
+    display: grid;
+    place-items: center;
+    background-color: #70CCC2;
+    margin: 2px 2px;
+    padding: 5px;
+    width: 15%;
+    font-size: 13px;
+    float: left;
+}
+
+.card3{
+    place-items: center;
+    background-color: #62B3AA;
+    font-size: 13px;
+    margin-top: -76px;
+    margin-left: 2px;
+    margin-right: 5%;
+    width: 37%;
+    float: right;
+    clear: both;
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 13px
+}
